@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on some open source programs to learn some practical applications.
 - 📫 you can reach me on the provided email anytime.
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: ...
 
 <!---
 vanshg1108/vanshg1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
