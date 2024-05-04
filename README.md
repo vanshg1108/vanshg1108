@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vanshg1108
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning Web developmetn along with MERN stack .
+- 🌱 I’m currently learning Web development along with MERN stack .
 - 💞️ I’m looking to collaborate on some open source programs to learn some practical applications.
-- 📫 you can reach me on the provided email anytime.
+- 📫 You can reach me on the provided email anytime.
 - 😄 Pronouns: he/him 
 
 <!---
