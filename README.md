@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some open source programs to learn some practical applications.
 - 📫 You can reach me on the provided email anytime.
 - 😄 Pronouns: he/him 
--   You can reach me at- vanshgupta11082003@gmail.com , vanshg2k3@gmail.com
+-   You can reach me at- vanshgupta11082003@gmail.com , vanshg2k3@gmail.com , https://www.linkedin.com/in/vansh-gupta-52001622b/
 <!---
 vanshg1108/vanshg1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
